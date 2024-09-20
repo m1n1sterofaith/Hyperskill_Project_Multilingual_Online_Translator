@@ -1,0 +1,15 @@
+﻿type: choice
+is_multiple_choice: false
+options:
+  - text: a
+  - text: b
+  - text: c
+  - text: d
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8142#comment
+status: Solved
+record: -1
+local_check: false

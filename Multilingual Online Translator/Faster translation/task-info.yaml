@@ -1,0 +1,20 @@
+﻿type: edu
+files:
+  - name: translator/translator.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8975#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 20 Sep 2024 14:12:17 UTC"
+record: 6
